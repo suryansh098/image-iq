@@ -1,1 +1,1 @@
-# Image IQ - An AI based Image Processing App
+# ImageIQ - An AI based Image Processing App

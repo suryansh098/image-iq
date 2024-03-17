@@ -12,8 +12,8 @@ const IBMPlex = IBM_Plex_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Imaginify",
-  description: "AI-powered image generator",
+  title: "ImageIQ",
+  description: "An AI powered image processing app",
 };
 
 export default function RootLayout({
